@@ -1,0 +1,458 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+/* srart hero-section */
+.hero-section{
+    height: 80vh;
+
+}
+
+h1{
+    font-size: 60px;
+}
+p{
+    font-size: 20px;
+    line-height: 33px;
+    color: #4a5565;
+}
+.left-items{
+    width: 50%;
+    align-items: center;
+    display: inline-block;
+}
+.right-items{
+    width: 35%;
+    display: inline-block;
+    margin-left: 50px;
+    text-align: right;
+}
+.right-items img{
+    width: 100%;
+    border-radius: 10px;
+}
+.contianer{
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+.B-1{
+    background-color: black;
+    color: aliceblue;
+    padding: 15px;
+    font-size: 18px;
+    line-height: 28px;
+    border-radius: 10px;
+}
+.B-2{
+    padding: 15px;
+    font-size: 18px;
+    line-height: 28px;
+    border-radius: 5px;
+    margin-left: 10px;
+    border: 1px solid #4a5565;
+}
+/* end hero-section  */
+/* start section-why */
+
+.titel-section{
+    font-size: 36px;
+    line-height: 40px;
+    text-align: center;
+
+}
+.p-why{
+    font-size: 20px;
+    line-height: 28px;
+    color: #4a5565;
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
+.cards{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+}
+.card-1{
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    width: 330px;
+    height: 230px; 
+    background-color: #DBEAFE;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+.div-1{
+    background-color: #155DFC;  
+    border-radius: 20px;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    display:inline-block;
+}
+.div-2{
+    background-color: white;
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+}
+.card-1 p, .card-2 p,.card-3 p{
+    line-height: 23px;
+    font-size: 14px;
+}
+
+/* start card-1  */
+
+.card-2 {
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    width: 330px;
+    height: 230px; 
+    background-color: #D0FAE5;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+.card-2 .div-1{
+    background-color:#009966;  
+    border-radius: 20px;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    display:inline-block;
+}
+.card-2 .div-2{
+    background-color: white;
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+/* end card-2 */
+
+/* start card-3 */
+.card-3 {
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    width: 330px;
+    height: 230px; 
+    background-color:#F3E8FF;
+    border-radius: 20px;
+
+}
+
+.card-3 .div-1{
+    background-color:#9810FA;  
+    border-radius: 20px;
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    display:inline-block;
+}
+.card-3 .div-3{
+    background-color: white;
+    width: 50%;
+    height: 50%;
+    border-radius: 10px;
+    margin: auto;
+}
+.why-choose-us{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.imge-whyChoose img {
+    width: 100%;
+    border-radius: 20px;
+}
+.imge-whyChoose{
+    float: left;
+    width: 45%;
+    margin-top: 20px;
+}
+.more{
+    float: right;
+    width: 50%;
+}
+.border{
+    border-left: 5px black solid;
+    padding-left: 20px;
+}
+.more h2{
+    font-size: 30px;
+    line-height: 36px;
+}
+.more .border h3{
+    font-size:  20px; 
+    line-height: 28px;
+}
+.more .border p{
+    font-size: 16px;
+    line-height: 24px;
+}
+.clr{
+    clear: both;
+}
+/* end section-why */
+
+/* start section What Our Members Say */
+.What-Our-Members-Say{
+    padding-top: 50px;
+    background-color: #F9FAFB;
+    text-align: center;
+    padding-bottom: 80px;
+}
+.What-Our-Members-Say .contianer h2{
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.item-1 img{
+    width: 80px;
+    border-radius: 50%;
+
+}
+.dive-items{
+    width: 25%;
+    display: inline-block;
+    background-color: #415c8161;
+    border-radius: 20px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.color-1{
+    background-color: #EFF6FF;
+    border: 3px #EFF6FF solid;
+}
+.color-2{
+    background-color: #ECFDF5;
+    border: 3px #ECFDF5 solid;
+}
+.color-3{
+    background-color: #FAF5FF;
+    border: 3px #FAF5FF solid;
+}
+.sec-text{
+    width: 100%;
+}
+.item-1{
+    display: inline-block;
+}
+.content{
+    display: inline-block;
+}
+.content p{
+    margin: 0px;
+}
+
+.clr{
+    clear: both;
+}
+/* start bar  */
+.bar{
+    background-color: #F1F5F9;
+    border-radius: 20px;
+
+}
+.bar .div-parent{
+    display: inline-block;
+    width: 20%;
+    text-align: center;
+    margin-left: 50px;
+    padding-bottom: 20px;
+    
+    
+}
+.bar .div-parent .div-child h3{
+    font-size: 36px;
+    line-height: 40px;
+    margin-bottom: -10px;
+}
+
+/* end section What Our Members Say */
+
+
+/* start section Ready to Start Your Fitness Journey? */
+
+.section-ready{
+    text-align: center;
+    padding-top: 50px;
+}
+.section-ready h2{
+    font-size: 36px;
+    line-height: 40px;
+}
+.section-ready p{
+    font-size: 20px;
+    line-height: 28px;
+}
+/* start form*/
+.contianer-2{
+    width: 50%;
+    margin: 50px auto;
+    font-size: 18px;
+    line-height: 28px;
+    border-radius: 20px;
+    padding: 50px;
+    background-color:#F9FAFB;
+}
+
+.first-name{
+    display: inline-block;
+    width: 48%;
+}
+.last-name{
+    display: inline-block;
+    width: 48%;
+    margin-left: 25px;
+}
+input ,select,textarea {
+    border-radius: 10px;
+    border: 2px #E5E7EB solid ;
+    width: 100%;
+    height: 60px;
+}
+select{
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+    margin-right: -20px;
+}
+#FitnessGoals{
+    height: 100px;
+}
+
+input::placeholder, 
+textarea::placeholder {
+    color: #888;       
+    font-size: 18px;
+    line-height: 28px;
+    opacity: 1;   
+    padding-left: 20px; 
+}
+.membership-select{
+    padding-left: 20px;
+    font-size: 18px;
+}
+form button{
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    line-height: 28px;
+    background-color: black;
+    color: white;
+    padding: 15px;
+    margin: 30px auto;
+    border-radius: 10px;
+}
+form p{
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    margin-top: -10px;
+}
+/* end form*/
+
+/* end section Ready to Start Your Fitness Journey? */
+
+
+/* start section footer  */
+
+.footer{
+    width: 100%;
+    height: 70vh;
+    background-color: #101828;
+}
+.div0 ,.div1, .div2{
+    display: inline-block;
+    
+}
+.div0{
+    width: 40%;
+    color: white;
+}
+.div0 h3{
+    font-size: 30px;
+    font-weight: 36px;
+}
+.div0 p{
+    font-size: 18px;
+    line-height: 29px;
+}
+.div0 a{
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #99A1AF;
+    padding: 10px;
+}
+.div1{
+    width: 23%;
+    margin-left: 20px;
+    color: white;
+}
+ul{
+    list-style: none;
+    padding-left: 0px;
+}
+.div1 ul li{
+    padding-bottom: 20px;
+}
+.div1 a{
+    text-decoration: none;
+    color: #99A1AF;
+}
+.div-main{
+    width: 100%;
+    margin-top: 20px;
+}
+.div2{
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: white;
+    width: 30%;
+    padding-left: 50px;
+}
+.div2 h4{
+    display: inline-block;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+}
+.div2 p{
+    font-size: 16px;
+    line-height: 24px;
+    margin: 0;
+}
+.div-horzintal{
+    border-top: 1px #99A1AF solid ;
+    width: 100%;
+    margin: auto;
+}
+.div3{
+    display: inline-block;
+    width: 50%;
+}
+.div3 p{
+    font-size: 14px;
+    line-height: 20px;
+}
+.div4{
+    width: 49%;
+    display: inline-block;
+    text-align: start;
+}
+.div4 a{
+    text-decoration: none;
+    color: #99A1AF;
+    padding: 10px;
+}
+/* end section footer  */
